@@ -1,0 +1,13 @@
+#rectangle {
+	border: 1px dashed black;
+    width: 500px;
+	margin-top: 20px;
+	margin-left: 20px;
+	font-size: 20px;
+	background: #b3d58b;
+	padding: 300px 0px;
+	text-align: center;
+}
+h1 {
+color: green;
+}
